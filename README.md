@@ -1,4 +1,4 @@
-# CM Events V0.1.0
+# CM Events Unity V0.1.0
 
 CM Events Unity is a Unity package for delegation. This package will add events like GameObjectEvent, Vector2Event, Vector3Event etc...
 
